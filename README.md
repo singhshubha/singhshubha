@@ -46,7 +46,26 @@ Analyzed 2,500+ stocks and built a data-driven tool for long-term investment dec
 | ⚔️ Consul, Sigma Chi | Led brotherhood with integrity and empathy |
 
 ---
+## [BOOT] Initializing Core Modules...  
+```txt
 
+✔️ Python / R                  ██████████░░░░  85% - Data wrangler mode  
+✔️ Machine Learning            █████████░░░░  75% - Tuned. Validated. ROC’d.  
+✔️ JavaScript / Node.js        ████████░░░░░  65% - Web wizard online  
+✔️ SQL / SQLite                █████████░░░░  70% - Querying the universe...  
+✔️ Data Visualization (ggplot) ██████████░░░  80% - Color-coded truth  
+```
+---
+
+## [SYSTEM STATUS]  
+```txt
+
+🧃 Energy Source: 60% caffeine, 30% memes, 10% motivation  
+📂 Storage: 40% CS code, 30% Econ notes, 20% failed regex, 10% boxing playlists  
+🧩 Error Handling: "It’s not a bug. It’s a feature."  
+⚠️ Zoom Exit Protocol:        ███░░░░░░░░░░  30% - "Gotta bounce for an exam."  
+```
+---
 ## 🛠️ Tech Stack
 
 ```txt
@@ -55,3 +74,8 @@ Frameworks: NodeJS, ExpressJS, Flask, AngularJS
 Web: HTML, CSS, Bootstrap, WebSocket  
 Databases: SQL, SQLite3  
 Tools: Git/GitHub, MFA rollout, Blender  
+```
+
+
+
+![GIF](https://miro.medium.com/v2/resize:fit:640/format:webp/1*W0ur9D98GGM9HGstpvF1ZA.gif)
