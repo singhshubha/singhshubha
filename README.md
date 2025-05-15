@@ -1,29 +1,11 @@
 # 👋 Hey there, I'm Shubha Swarnim Singh!
 
-🌟 Code enthusiast | 🧠 ML explorer | 🎨 Event designer | 🤝 Student leader  
-📍 Boise, Idaho | 🖥️ CS + Business @ College of Idaho (Dean’s List, GPA 3.74)  
+🌟 Code enthusiast | 🧠 ML explorer | 🤝 Student leader  
+📍 Boise, Idaho | 🖥️ CS + Business @ College of Idaho
 ☕ Currently: Interning at Albertsons & building data-driven things I love
 
-## 📊 GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=singhshubha&theme=dracula&hide_border=true)](https://git.io/streak-stats)
-
-
-
 ---
 
-## 🚀 My Projects
-
-🗳️ **[Senate Voting System](https://github.com/Rabin-Kalikote/Senate-Voting-System)**  
-Built a secure, real-time online voting app using Node.js, Express & SQLite. Handles votes with 99.99% uptime!
-
-🔍 **[In-Memory Search Engine](https://github.com/singhshubha/file-search-engine)**  
-Python-based text file search engine with lightning-fast inverted index lookup. Millisecond speed FTW ⚡
-
-📈 **[Investment Calculator](https://github.com/singhshubha/InvesterMaster)**  
-Analyzed 2,500+ stocks and built a data-driven tool for long-term investment decisions.
-
-
----
 
 ## 💼 Experience Highlights
 
@@ -77,5 +59,3 @@ Tools: Git/GitHub, MFA rollout, Blender
 ```
 
 
-
-![GIF](https://miro.medium.com/v2/resize:fit:640/format:webp/1*W0ur9D98GGM9HGstpvF1ZA.gif)
