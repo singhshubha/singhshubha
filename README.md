@@ -1,47 +1,54 @@
-# 👋 Hey there, I'm Shubha!
+# 👋 Hey there, I'm Shubha Swarnim Singh!
 
-🎓 Computer Science @ College of Idaho  
-💼 Incoming Intern @ Albertsons Companies  
-🌍 Bridging the world with code, community, and curiosity  
+🌟 Code enthusiast | 🧠 ML explorer | 🎨 Event designer | 🤝 Student leader  
+📍 Boise, Idaho | 🖥️ CS + Business @ College of Idaho (Dean’s List, GPA 3.74)  
+☕ Currently: Interning at Albertsons & building data-driven things I love
 
----
 
-## 🚀 About Me
-I'm a student, a coder, a resident assistant, a storyteller, and a low-key marketing creative. I believe in the power of tech not just to solve problems—but to **connect people**, empower communities, and maybe even explain your ML model to your grandma.
-
-Here's a quick snapshot:
-- 💡 Passionate about **Machine Learning** & **Data Science**
-- 🧠 Love transforming messy datasets into sharp predictions (and cool graphs)
-- 🌐 Exploring **global trade**, **economic policies**, and their data-driven implications
-- 🤝 Leading with integrity as part of **Sigma Chi**
-- 🎤 Giving presentations on everything from **ROC curves** to **emotional vulnerability**
-- 🎨 Occasionally design **Ghibli-themed event posters**...because why not?
 
 ---
 
-## 🛠️ What I Work With
-| Languages | Tools & Libraries | Hobbies |
-|----------|------------------|--------|
-| Python, R, JavaScript | `tidymodels`, `ggplot2`, XGBoost, HTML/CSS, Git | Pickleball 🏓, writing reflections, helping international students, late-night debugging sessions |
+## 🚀 My Projects
+
+🗳️ **[Senate Voting System](https://github.com/Rabin-Kalikote/Senate-Voting-System)**  
+Built a secure, real-time online voting app using Node.js, Express & SQLite. Handles votes with 99.99% uptime!
+
+🔍 **[In-Memory Search Engine](https://github.com/singhshubha/file-search-engine)**  
+Python-based text file search engine with lightning-fast inverted index lookup. Millisecond speed FTW ⚡
+
+📈 **[Investment Calculator](https://github.com/singhshubha/InvesterMaster)**  
+Analyzed 2,500+ stocks and built a data-driven tool for long-term investment decisions.
+
 
 ---
 
-## 🔍 Current Projects
-- 🎯 **Admissions Prediction Model**  
-  Using logistic regression, LASSO, and decision trees to predict student enrollment behavior with real data from 2022–2024.
+## 💼 Experience Highlights
 
-- 🧠 **Colloquium Reflections**  
-  Essays and explorations on **music**, **grief**, **queerness**, and what it really means to connect.
+- 🖥️ **IT Intern @ College of Idaho**  
+  Rolled out MFA to 1,000+ devices, supported biological species database (1M+ records)
 
-- 🥽 **Pocket Translator Glasses**  
-  A storytelling-driven product pitch for real-time wearable translation tech — bridging cultures, one conversation at a time.
+- 🎤 **Alumni & Events Tech**  
+  Supported $1.12M+ fundraising events & enhanced alumni CRM for outreach
 
 ---
 
-## 📈 Fun Stats
-```text
-Languages          ▓▓▓▓▓▓▓▓▓░░░░ 80%
-Machine Learning   ▓▓▓▓▓▓▓▓░░░░░ 70%
-Poster Design      ▓▓▓▓▓░░░░░░░░ 50%
-Fraternity Hustle  ▓▓▓▓▓▓░░░░░░░ 60%
-Leaving Zoom early ▓▓▓░░░░░░░░░░ 30%
+## 🧠 Leadership Roles
+
+| Role | What I Did |
+|------|-------------|
+| 💰 ASCI Treasurer | Managed $100K student government fund with transparency |
+| 🏛️ Senator (2022–2024) | Represented student voices in college policies |
+| 🧑‍🏫 Resident Assistant | Built inclusive dorm communities since Day 1 |
+| 🥊 President, Boxing Club | Revived and grew the club from scratch |
+| ⚔️ Consul, Sigma Chi | Led brotherhood with integrity and empathy |
+
+---
+
+## 🛠️ Tech Stack
+
+```txt
+Languages: Python, JavaScript, PHP  
+Frameworks: NodeJS, ExpressJS, Flask, AngularJS  
+Web: HTML, CSS, Bootstrap, WebSocket  
+Databases: SQL, SQLite3  
+Tools: Git/GitHub, MFA rollout, Blender  
