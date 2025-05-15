@@ -27,7 +27,7 @@
 ```
 ---
 ## 🛠️ Tech Stack
-<img align='right' src='https://miro.medium.com/v2/resize:fit:640/format:webp/1*W0ur9D98GGM9HGstpvF1ZA.gif'>
+<img align='right' src='https://miro.medium.com/v2/resize:fit:440/format:webp/1*W0ur9D98GGM9HGstpvF1ZA.gif'>
 
 ```txt
 Languages: Python, R, JavaScript, PHP  
