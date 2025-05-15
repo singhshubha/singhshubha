@@ -4,6 +4,9 @@
 📍 Boise, Idaho | 🖥️ CS + Business @ College of Idaho (Dean’s List, GPA 3.74)  
 ☕ Currently: Interning at Albertsons & building data-driven things I love
 
+## 📊 GitHub Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=singhshubha&theme=dracula&hide_border=true)](https://git.io/streak-stats)
+
 
 
 ---
