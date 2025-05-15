@@ -27,7 +27,7 @@
 ```
 ---
 ## 🛠️ Tech Stack
-<img align='right' src='https://miro.medium.com/v2/resize:fit:440/format:webp/1*W0ur9D98GGM9HGstpvF1ZA.gif'>
+
 
 ```txt
 Languages: Python, R, JavaScript, PHP  
@@ -38,10 +38,10 @@ Tools: RStudio, Git/GitHub, MFA rollout, Blender
 ```
 ```txt
 
-✔️ Python / R                  ██████████░░░░  85%  
-✔️ Machine Learning            █████████░░░░  75%   
-✔️ JavaScript / Node.js        ████████░░░░░  65%   
-✔️ SQL / SQLite                █████████░░░░  70% 
-✔️ Data Visualization (ggplot) ██████████░░░  80% 
+✔️ Python / R                  ██████████░░░░  85% - Data wrangler mode  
+✔️ Machine Learning            █████████░░░░  75% - Tuned. Validated. ROC’d.  
+✔️ JavaScript / Node.js        ████████░░░░░  65% - Web wizard online  
+✔️ SQL / SQLite                █████████░░░░  70% - Querying the universe...  
+✔️ Data Visualization (ggplot) ██████████░░░  80% - Color-coded truth  
 ```
-
+<img align='center' src='https://miro.medium.com/v2/resize:fit:640/format:webp/1*W0ur9D98GGM9HGstpvF1ZA.gif'>
