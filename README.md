@@ -1,20 +1,47 @@
 # 👋 Hey there, I'm Shubha Swarnim Singh!
 
-🌟 Code enthusiast | 🧠 ML explorer | 🤝 Student leader  
-📍 Boise, Idaho | 🖥️ CS + Business @ College of Idaho
-☕ Currently: Interning at Albertsons & building data-driven things I love
+Code enthusiast | ML explorer | Student leader  
+📍 Boise, Idaho | CS + Business @ College of Idaho  
+Currently: Interning at Albertsons & building data-driven things I love
 
 ---
 
 
-## 💼 Experience Highlights
+# My Skills
+## Programming Languages
+[![Python](https://skillicons.dev/icons?i=py)](https://www.python.org/)
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![R](https://skillicons.dev/icons?i=r)](https://www.r-project.org/)
+[![C](https://skillicons.dev/icons?i=c)](https://en.wikipedia.org/wiki/C_(programming_language))
 
-- 🖥️ **IT Intern @ College of Idaho**  
-  Rolled out MFA to 1,000+ devices, supported biological species database (1M+ records)
+## Frontend Web Development
+[![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)
+[![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/)
+[![Next.js](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/)
 
-- 🎤 **Alumni & Events Tech**  
-  Supported $1.12M+ fundraising events & enhanced alumni CRM for outreach
+## Backend/Runtime
+[![Express](https://skillicons.dev/icons?i=express)](https://expressjs.com/)
+[![Flask](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com/en/stable/)
+[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/)
+[![NPM](https://skillicons.dev/icons?i=npm)](https://www.npmjs.com/)
 
+
+## Databases
+[![SQLite](https://skillicons.dev/icons?i=sqlite)](https://www.sqlite.org/)
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
+
+## Tools & Environments
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
+[![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
+[![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
+
+## Others
+[![LaTeX](https://skillicons.dev/icons?i=latex)](https://www.latex-project.org/)
+[![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
+[![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
+[![Blender](https://skillicons.dev/icons?i=blender)](https://www.blender.org/)
 ---
 
 ## [SYSTEM STATUS]  
