@@ -55,14 +55,6 @@ Currently: Interning at Albertsons & building data-driven things I love
 ---
 ## 🛠️ Tech Stack
 
-
-```txt
-Languages: Python, R, JavaScript, PHP  
-Frameworks: NodeJS, ExpressJS, Flask, AngularJS  
-Web: HTML, CSS, Bootstrap, WebSocket  
-Databases: SQL, SQLite3  
-Tools: RStudio, Git/GitHub, MFA rollout, Blender  
-```
 ```txt
 
 ✔️ Python / R                  ██████████░░░░  85% - Data wrangler mode  
