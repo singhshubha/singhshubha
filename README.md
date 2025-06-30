@@ -12,7 +12,6 @@ Currently: Interning at Albertsons & building data-driven things I love
 [![Python](https://skillicons.dev/icons?i=py)](https://www.python.org/)
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![R](https://skillicons.dev/icons?i=r)](https://www.r-project.org/)
-[![C](https://skillicons.dev/icons?i=c)](https://en.wikipedia.org/wiki/C_(programming_language))
 
 ## Frontend Web Development
 [![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
