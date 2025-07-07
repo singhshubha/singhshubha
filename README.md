@@ -41,6 +41,7 @@ Currently: Interning at Albertsons & building data-driven things I love
 [![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
 [![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
 [![Blender](https://skillicons.dev/icons?i=blender)](https://www.blender.org/)
+
 ---
 
 ## [SYSTEM STATUS]  
