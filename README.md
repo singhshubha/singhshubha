@@ -31,12 +31,8 @@ Currently: Interning at Albertsons & building data-driven things I love
 [![SQLite](https://skillicons.dev/icons?i=sqlite)](https://www.sqlite.org/)
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
 
-## Tools & Environments
-[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
-[![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
-[![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
-
 ## Others
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
 [![LaTeX](https://skillicons.dev/icons?i=latex)](https://www.latex-project.org/)
 [![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
 [![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
